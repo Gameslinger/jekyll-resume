@@ -1,52 +1,42 @@
 ---
-title: "C'thulhu Resume"
 layout: resume
+title: "My Resume"
 ---
 
-# C'thulhu
+# Gabe Maxfield
+### 385-645-9542
+### gabe2max@gmail.com
 
-> I am an outgoing and energetic (ask anybody) young professional, seeking a career that fits my professional skills, personality, and murderous tendencies. My squid-like head is a masterful problem solver and inspires fear in who gaze upon it. I can bring world domination to your organization.
+## **Education**
+Brigham Young University - Computer Science - Bachelors
 
-## Education
+* 3.89 GPA
+* Graduating April 2025
 
-### **Withering Madness University** Planet Vhoorl
+American Preperatory Academy - Highschool Diploma
 
-**Major:** Public Relations
+* 3.99 GPA
 
-**Minor:** Scale Tending
+## **Experience**
+Intern - Lawrence Livermore National Labs High Performance Computing
 
-## Skills
+* High Performance Computing Concepts
+    * Slurm job scheduler + Munge Authenticion framework
+    * Lustre/ZFS distributed filesystem
+    * Message Passing Interface Programs
+    * Kernel-based virtual machines
+    * Ansible automation
+    * Advanced Linux Skills
+Part-time - Brigham Young University Computer Science Webmaster
 
-### **Office skills**
+* Development/ Maintenance Role
+    * Django framework
+    * Postgres database
+    * Git Version Control
+Full-time Vulanteer Missionary For the Church of Jesus Christ of Latter Day Saints
 
-Office and records management, database administration, event organization, customer support, travel coordination
-
-### **Computer skills**
-
-Microsoft productivity software (Word, Excel, etc), Adobe Creative Suite, Windows
-
-## Experience
-
-### **Leader & Overlord** Doomsday Cult, Baton Rogue, LA <span>1926&ndash;Present</span>
-
-- Inspired and won highest peasant death competition among servants
-- Helped coordinate managers to grow cult following
-- Provided untimely deaths to all who opposed
-
-### **Bartender/Server** The Watering Hole, Milwaukee, WI <span>2009</span>
-
-- Worked on grass-roots promotional campaigns
-- Reduced theft and property damage percentages
-- Janitorial work, Laundry
-
-## Hobbies
-
-World Domination, Deep Sea Diving, Murder Most Foul
-
-## References
-
-Available on request
-
-## Links
-
-<a href="https://github.com/gonsie/Cthulu-Resume"><span class="octicon octicon-mark-github" style="position: relative; color: black; margin: 3px;"></span>Find This on GitHub</a>
+* 2 Year Thailand and California Service (Including District Leader Role)
+    * Learned Thai language
+    * Communication Skills
+    * Team work
+    * Leadership
